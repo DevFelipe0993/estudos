@@ -1,0 +1,51 @@
+@charset "UTF-8"; 
+
+@font-face {
+    font-family: 'Vorname';
+    src: url('Vorname.otf') format('opentype'), url('Vorname.otf') format('truetype');
+    font-weight: normal;
+    font-style: normal; 
+}
+
+body {
+    background-color: rgb(121, 238, 238);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: rgb(1, 56, 56);
+    font-family: 'Vorname', Times, serif;
+    font-size: 3em;
+    font-weight: normal;
+    text-align: center;
+}
+
+h1#principal {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: blanchedalmond;
+}
+
+.basico {
+    color: blueviolet;
+    background-color: darkgray;
+}
+
+.intermediario {
+    color: crimson;
+    background-color: bisque;
+}
+
+.avancado {
+    color: black;
+    background-color: azure;
+}
+
+h2 {
+    color: blue;
+    text-align: right;
+}
+
+p {
+    text-align: justify;
+    text-indent: 30px;
+}

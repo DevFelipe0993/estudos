@@ -1,0 +1,15 @@
+Negrito / Destaque = <b>  (não semantico / <STRONG> semantico
+
+Itálico / Ênfase = <i> (não semantico / <em> semantico
+
+Texto marcado = <mark> *MARCA TEXTO*
+
+Texto pequeno = <small>
+
+Texto deletado = <del>
+
+Texto inserido = <ins> / <u> (não semantico)
+
+Texto Sobrescrito = <sup> numeroco "elevado ao quadrado"
+
+Texto Subscrito = <sub> numerico "exemplo, H20"

@@ -1,0 +1,13 @@
+FORMATAÇÕES
+
+<code> da espaçamento entre letras ou numeros igualmente vizualmente
+
+<pre> formata quebras de linha deixando igual no VScode para o HTML
+
+<q> Citação é a menção de uma informação extraída de outra fonte, e que podem aparecer no texto ou em notas de rodapé.
+
+<blockquote cite> Frase referenciando internamente para preservar direitos autorais
+
+<abbr> poopup no HTML "colocar" significado da abreviação
+
+<bdo> (rtl) escrita invertida

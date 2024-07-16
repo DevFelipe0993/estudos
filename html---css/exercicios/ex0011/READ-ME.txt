@@ -1,0 +1,12 @@
+<picture> + <source> (max or min-width)* + srcset="imagens/foto-p.png" type="image/png 
+<img> src="imagens/foto-g.png" alt="Imagem flexível">
+
+<audio src="midias/happy-mistake.mp3" *controls *autoplay></audio> // controls (painel de controle no html)
+
+<audio preload="metadata" *controls *autoplay *loop> // 3 parametros        //   // audio com 3 formatos mp3, wav e ogg
+        <source src="midias/happy-mistake.mp3" type="audio/mpeg">
+
+ <video width="500" poster="" controls>  (3 parametros, tamanho, capa, controle.       //   // vídeo com 4 formatos mp4,m4v,webm e ogg* a ordem influencia.
+        <source src="midias/meu-video.mp4.mp4" type="video/mp4">
+        <source src="midias/meuvideo.mp4.webm" type="video/webm"> 
+    </video>   

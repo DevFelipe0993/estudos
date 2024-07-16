@@ -1,0 +1,15 @@
+EXPORTAR FONTE.
+
+@font-face {
+    font-family:  ;
+    src: url('nome-do-arquivo') fontmat('opentype'), url('nome-do-arquivo') format('truetype');
+font-weight: normal;
+            font-style: normal;
+
+
+EM HTML É *ID /=/ EM CSS É *#
+EM HTML É *CLASS /=/ EM CSS É *. (PONTO)
+
+UM *ID POR SELETOR.
+CLASS PODE SER MULTIPLOS //ex class="primeiro segundo" - herança
+envelopar com control+shift+p = <span class="primeiro">

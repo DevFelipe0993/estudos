@@ -1,0 +1,16 @@
+PSEUDO CODGO
+
+a:visited {}
+a:hove {}                                                                             SELETORES PERSONALIZADOS
+a:active {}
+-------------------------------------------------------------- # = id / . = class / : = pseudo-class / :: = pseudo-element / > = clildren
+
+PSEUDO ELEMENTO
+
+a::before {
+    content: 'simbolo'
+}
+
+a::after {
+    content: 'simbolo'
+}

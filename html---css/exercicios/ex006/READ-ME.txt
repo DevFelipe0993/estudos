@@ -1,0 +1,3 @@
+Destaque = <strong>
+
+Ênfase = <em>

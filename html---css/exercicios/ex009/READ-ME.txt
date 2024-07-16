@@ -1,0 +1,22 @@
+Listas
+Listas ordenadas
+
+<li> = Unidade de Item da lista
+<ol> = Listas ordenadas
+
+<ol> + <li>
+<ol type=A> ABC
+<ol type=a> abc
+<ol type=I> Romanos +
+<ol type=i> Romanos -
+
+Listas não ordenadas
+
+<ul type"> <!--disc / circle / square-->
+
+Lista de definições
+
+<dt> + <dd>
+
+
+
