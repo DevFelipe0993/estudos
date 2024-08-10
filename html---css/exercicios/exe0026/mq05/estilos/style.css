@@ -7,7 +7,7 @@
 }
 
 body, html {
-    background-color: lightblue;
+    background-color: rgb(211, 163, 255);
 }
 
 header {
@@ -19,8 +19,21 @@ header > h1 {
     text-align: center;
 } 
 
-menu {
+span#burguer {
+    background-color: rgb(154, 64, 238);
     display: block;
+    text-align: center;
+    padding: 10px;
+    cursor: pointer;
+}
+
+span#burguer:hover {
+    background-color: rgb(57, 9, 102);
+    color: white;
+}
+
+menu {
+    display: none;
 }
 
 menu > ul {
